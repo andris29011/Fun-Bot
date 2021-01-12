@@ -3,15 +3,7 @@ DiscordBot
 Multi-purpose Discord bot coded in JavaScript using the discord.js framework and Commando.
 
 
-Table of Contents
 
-Commands
-
-Credit
-
-Commands
-
-Administration
 
 addgamerole: Add a Game Role for roleReaction
 
